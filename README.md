@@ -1,18 +1,20 @@
-### Hi there 👋
+<h1 align="center">Hello 👋, I'm Juanse</h1>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juansecardozo&layout=compact&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
+<h2 align="center">💭 About me</h2>
+Glad you are here! I'm Juan Sebastián, but you can call me Juanse. I'm always curious about everything around, so I'm always trying to expand my boundaries.
 
-<!--
-**juansecardozo/juansecardozo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I enjoy an active lifestyle and I love to practice weightlifting, cycling and swimming. Football, just for watching.
 
-Here are some ideas to get you started:
+I also have an active social life, so you can invite me for a coffee or a nice virtual talk.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2 align="center">🛠️ Languages I use the most!</h2>
+<div align="center">
+  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juansecardozo&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+</div>
+
+<h2 align="center">⭐️ Featured repositories</h2>
+<div align="center">
+  
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=juansecardozo&repo=hexagonal-http-api&theme=dracula)](https://github.com/juansecardozo/hexagonal-http-api) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=juansecardozo&repo=obsidian-toggle-checkbox-plus&theme=dracula)](https://github.com/juansecardozo/obsidian-toggle-checkbox-plus) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=juansecardozo&repo=worker-pools-server&theme=dracula)](https://github.com/juansecardozo/worker-pools-server) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=juansecardozo&repo=typescript-api&theme=dracula)](https://github.com/juansecardozo/typescript-api)
+</div>
