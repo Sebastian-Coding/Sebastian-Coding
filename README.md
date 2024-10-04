@@ -2,7 +2,7 @@
 
 <h2 align="center">💭 About me</h2>
 
-Glad you are here! I'm Juan Sebastián, but you can call me Juanse. I'm always curious about everything around, so I'm always trying to expand my boundaries.
+Glad you are here! I'm Sebastian. I'm always curious about everything around, so I'm always trying to expand my boundaries.
 
 I enjoy an active lifestyle and I love to practice weightlifting, cycling and swimming. Football, just for watching.
 
